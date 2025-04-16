@@ -43,10 +43,6 @@
 "3. Reach out for collaboration opportunities."
 
 ## 📫 Let's Connect:
-Here's how you can add a logo for your email in the "Let's Connect" section of your GitHub README:
-## 📫 Let's Connect:
-To include a Gmail icon in your GitHub README, you can use the following Markdown snippet:
-## 📫 Let's Connect:
 <p>
   <a href="mailto:sakshipopli1308@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail Logo" width="40" height="40"/>
