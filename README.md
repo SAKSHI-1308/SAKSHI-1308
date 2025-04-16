@@ -38,11 +38,11 @@
  
 
 ## 🤝 How to Collaborate:
-<li>
-<li>Fork repositories and open pull requests.</li>
-<li>Share issues or improvement ideas.</li>
-<li>Reach out for collaboration opportunities.</li>
-</li>
+<ul>
+  <li>Fork repositories and open pull requests.</li>
+  <li>Share issues or improvement ideas.</li>
+  <li>Reach out for collaboration opportunities.</li>
+</ul>
 
 ## 📫 Let's Connect:
 <p>
