@@ -18,6 +18,14 @@ echo "Tools: Git, Docker, etc."
 ## 🌱 Current Focus:
 echo "Building robust web apps, diving into AI/ML, and contributing to open-source projects."
 
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAKSHI-1308&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAKSHI-1308&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+ 
+
 ## 🤝 How to Collaborate:
 echo "1. Fork repositories and open pull requests."
 echo "2. Share issues or improvement ideas."
