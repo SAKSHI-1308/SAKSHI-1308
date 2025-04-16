@@ -4,7 +4,7 @@
 
 
 ## 🌟 About Me:
- "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. I thrive on challenges and enjoy sharing knowledge with the developer community."
+ "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. Recognised for robust work ethic, versatility and diligent team collaborator."
 
 ## 🔭 What You'll Find Here:
 "1. Innovative Projects: A showcase of my creativity and technical skills."
