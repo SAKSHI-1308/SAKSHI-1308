@@ -12,9 +12,16 @@
 "3. Learning Adventures: Experimentations and explorations in various tech domains."
 
 ## 🛠️ Technologies & Tools:
-"Programming Languages: Python, JavaScript, etc."
-"Frameworks: React, Django, etc."
-"Tools: Git, Docker, etc."
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Logo" width="40" height="40"/>  
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40"/>  
+</p>
 
 ## 🌱 Current Focus:
 "Building robust web apps, diving into AI/ML, and contributing to open-source projects."
