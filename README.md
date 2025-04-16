@@ -43,5 +43,11 @@
 "3. Reach out for collaboration opportunities."
 
 ## 📫 Let's Connect:
-"Email: sakshipopli1308@gmail.com"
-"LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/sakshi-popli-567940220/)"
+Here's how you can add a logo for your email in the "Let's Connect" section of your GitHub README:
+## 📫 Let's Connect:
+<p>
+  <a href="mailto:sakshipopli1308@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email Logo" width="40" height="40"/></a>
+</p>
+<p><a href="https://linkedin.com/in/sakshi-popli-567940220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p>
+
+ 
