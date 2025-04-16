@@ -2,15 +2,18 @@
 
 <img src="https://media.giphy.com/media/3o7aD6vVdWqGzZ9jO0/giphy.gif" alt="Girl Coding Animation" width="300" />
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=SAKSHI-1308&label=Profile%20Views&color=blue&style=flat)
 
 ## 🌟 About Me:
  "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. Recognised for robust work ethic, versatility and diligent team collaborator."
 
 ## 🔭 What You'll Find Here:
-"1. Innovative Projects: A showcase of my creativity and technical skills."
-"2. Collaborations: Open-source contributions and team efforts."
-"3. Learning Adventures: Experimentations and explorations in various tech domains."
-
+<ul>
+<li> "1. Innovative Projects: A showcase of my creativity and technical skills."</li>
+ <li>"2. Collaborations: Open-source contributions and team efforts."</li>
+ <li>"3. Learning Adventures: Experimentations and explorations in various tech domains."</li>
+</ul>
 ## 🛠️ Technologies & Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>  
