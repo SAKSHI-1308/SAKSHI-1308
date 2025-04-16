@@ -1,6 +1,7 @@
 # Welcome to Sakshi's GitHub Profile! 👋✨
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Matrix Code Rain">
+<img src="https://media.giphy.com/media/3o7aD6vVdWqGzZ9jO0/giphy.gif" alt="Girl Coding Animation" width="300" />
+
 
 ## 🌟 About Me:
  "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. I thrive on challenges and enjoy sharing knowledge with the developer community."
