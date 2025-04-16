@@ -1,6 +1,7 @@
-
-
 # Welcome to Sakshi's GitHub Profile! 👋✨
+
+![Typing Hands](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 
 ## 🌟 About Me:
  "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. I thrive on challenges and enjoy sharing knowledge with the developer community."
