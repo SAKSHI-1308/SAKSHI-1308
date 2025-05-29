@@ -1,6 +1,6 @@
 # Welcome to Sakshi's GitHub Profile! 👋✨
 
-<img src="https://media.giphy.com/media/3o7aD6vVdWqGzZ9jO0/giphy.gif" alt="Girl Coding Animation" width="300" />
+<img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDA2NDEsIm5iZiI6MTc0ODUwMDM0MSwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA2MzIyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MjY0Yjg3MmZlMmNlM2E3YTllZGRlZjE0YTFjNGM2ZWViYzhjZGY2MjgwYTE3ZWQ4ZjJjYWJkMTI2ODg4YzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7m7AhgIp5sqkBT5rwHFCOoh1_0HrYTrdtZOcPBO8Ci8" alt="Girl Coding Animation" width="300" />
   
 ![Profile Views](https://komarev.com/ghpvc/?username=SAKSHI-1308&label=Profile%20Views&color=blue&style=flat)
 
