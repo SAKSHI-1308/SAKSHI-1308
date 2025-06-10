@@ -38,11 +38,17 @@
 ## 🌱 Current Focus:
 "Building robust web apps, diving into AI/ML, and contributing to open-source projects."
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="left">📊 GitHub Stats:</h2>
+<p>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakshiPopli&show_icons=true&locale=en&layout=compact" alt="Profile Details" />
+</p>
+ 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPopli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SakshiPopli&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+ 
 
  
 
