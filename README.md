@@ -2,7 +2,7 @@
 
 <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDA2NDEsIm5iZiI6MTc0ODUwMDM0MSwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA2MzIyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MjY0Yjg3MmZlMmNlM2E3YTllZGRlZjE0YTFjNGM2ZWViYzhjZGY2MjgwYTE3ZWQ4ZjJjYWJkMTI2ODg4YzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7m7AhgIp5sqkBT5rwHFCOoh1_0HrYTrdtZOcPBO8Ci8" alt="Girl Coding Animation" width="300" />
   
-![Profile Views](https://komarev.com/ghpvc/?username=SAKSHI-1308&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SakshiPopli&label=Profile%20Views&color=blue&style=flat)
 
 ## 🌟 About Me:
  "Hi! I'm Sakshi, a passionate developer who loves exploring new technologies and creating impactful projects. Recognised for robust work ethic, versatility and diligent team collaborator."
@@ -40,9 +40,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAKSHI-1308&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiPopli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAKSHI-1308&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
  
 
